@@ -1,5 +1,4 @@
 # hello-world
-# hello-world
 
 Hi Humans!
 
@@ -9,4 +8,4 @@ tizzy T
 
 just do it.
 
-this is a misstake.
+this is a mass.
