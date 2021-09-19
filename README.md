@@ -1,6 +1,2 @@
 # hello-world
-Hi Humans!
-one1
-I'm here, I like Node.js and play basketball. I've had tacos on the moon and find them far superior to Earth tacos. tizzy T
-
-just do it.
+this is miss.
