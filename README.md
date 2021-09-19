@@ -1,5 +1,5 @@
 # hello-world
-This is my first Github repository
+This is my first Github repository.
 Hi Humans!
 
 I'm here, I like Node.js and play basketball.
